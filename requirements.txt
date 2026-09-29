@@ -1,0 +1,9 @@
+streamlit
+ultralytics
+opencv-python
+matplotlib
+pandas
+seaborn
+pyyaml
+sahi
+Pillow
